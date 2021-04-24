@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Adalberto Rosa do Nascimento alterado",
+      "email": "adalbertos.nascmento@gmail.com",
+      "telefone": "9.9979-7473",
+      "dtCadastro": "2021-04-07T03:00:00.000Z",
+      "urlFoto": "assets/imagens/adalberto.png"
+    },
+    {
+      "id": 2,
+      "nome": "Fulano de Tal",
+      "email": "fulano@tal.com.br",
+      "telefone": "9.9979-7473",
+      "dtCadastro": "2021-04-07T04:00:00.000Z",
+      "urlFoto": ""
+    }
+  ]
+}
